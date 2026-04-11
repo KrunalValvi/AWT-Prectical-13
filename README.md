@@ -1,4 +1,4 @@
-# Krunal Valvi — Portfolio + Admin Dashboard
+# Sanket Kotak — Portfolio + Admin Dashboard
 
 Full-stack personal portfolio with admin panel. Built with Next.js 14, TypeScript, Node.js/Express, MongoDB.
 
