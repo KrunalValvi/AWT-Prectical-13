@@ -7,7 +7,7 @@ const mono = Space_Mono({ subsets: ['latin'], weight: ['400', '700'], variable: 
 const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-display' });
 
 export const metadata: Metadata = {
-  title: 'Priyanka Chauhan — Backend & Full Stack Developer',
+  title: 'Krunal Valvi — Backend & Full Stack Developer',
   description: 'Turning ideas into working products. Building AlphaMetrics & more.',
 };
 

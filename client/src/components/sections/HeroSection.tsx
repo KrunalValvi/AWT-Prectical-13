@@ -14,7 +14,7 @@ export default function HeroSection() {
           HELLO, I AM
         </p>
         <h1 className="font-display text-6xl md:text-8xl font-bold mb-4 opacity-0 animate-fade-up" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
-          <span className="gradient-text">Priyanka Chauhan</span>
+          <span className="gradient-text">Krunal Valvi</span>
         </h1>
         <p className="text-text-dim text-lg md:text-xl font-mono mb-6 opacity-0 animate-fade-up" style={{ animationDelay: '0.3s', animationFillMode: 'forwards' }}>
           Backend + Full Stack Developer

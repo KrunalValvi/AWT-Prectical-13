@@ -15,7 +15,7 @@ export default function Home() {
       <ProjectsSection />
       <ContactSection />
       <footer className="border-t border-border py-8 text-center text-muted font-mono text-xs">
-        <p>Made with precision by <span className="text-accent">Priyanka Chauhan</span> © {new Date().getFullYear()}</p>
+        <p>Made with precision by <span className="text-accent">Krunal Valvi</span> © {new Date().getFullYear()}</p>
       </footer>
     </main>
   );
